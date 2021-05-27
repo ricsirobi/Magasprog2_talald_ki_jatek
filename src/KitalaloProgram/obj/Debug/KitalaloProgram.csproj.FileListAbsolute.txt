@@ -11,3 +11,10 @@ C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.csprojAssembl
 C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.csproj.CoreCompileInputs.cache
 C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.dll
 C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.pdb
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\bin\Debug\KitalaloProgram.dll.config
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\bin\Debug\KitalaloProgram.dll
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\bin\Debug\KitalaloProgram.pdb
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\obj\Debug\KitalaloProgram.csprojAssemblyReference.cache
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\obj\Debug\KitalaloProgram.csproj.CoreCompileInputs.cache
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\obj\Debug\KitalaloProgram.dll
+C:\Users\acsro\OneDrive\Dokumentumok\GitHub\Magasprog2_talald_ki_jatek\src\KitalaloProgram\obj\Debug\KitalaloProgram.pdb

@@ -9,15 +9,15 @@ namespace KitalaloProgram.Classes
 {
     public class Game
     {
-        protected int maxNum;
         private static Random rnd = new Random();
-        protected int generatedNumber;
+        protected int maxNum;
+        protected int genNum;
 
         public Game() { }
         public Game(int max)
         {
             MaxNum = max;
-            generatedNumber = rnd.Next(0, maxNum);
+            genNum = rnd.Next(0, maxNum);
         }
         public int MaxNum
         {
@@ -25,7 +25,7 @@ namespace KitalaloProgram.Classes
             private set
             {
                 if (value <= 0)
-                    throw new NotNullException("Az érték nagyobb kell, hogy legyen, mint 0!");
+                    throw new NotNullException("Az érték legyen nagyobb mint 0!");
 
                 maxNum = value;
             }
