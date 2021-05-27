@@ -1,0 +1,13 @@
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\bin\Debug\KitalaloProgram.dll.config
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\bin\Debug\KitalaloProgram.dll
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\bin\Debug\KitalaloProgram.pdb
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\obj\Debug\KitalaloProgram.csproj.CoreCompileInputs.cache
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\obj\Debug\KitalaloProgram.dll
+D:\Programozás C#\magpro2beadandok\KitalaloProgram\obj\Debug\KitalaloProgram.pdb
+C:\Users\szoke\Downloads\KitalaloProgram\bin\Debug\KitalaloProgram.dll.config
+C:\Users\szoke\Downloads\KitalaloProgram\bin\Debug\KitalaloProgram.dll
+C:\Users\szoke\Downloads\KitalaloProgram\bin\Debug\KitalaloProgram.pdb
+C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.csprojAssemblyReference.cache
+C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.csproj.CoreCompileInputs.cache
+C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.dll
+C:\Users\szoke\Downloads\KitalaloProgram\obj\Debug\KitalaloProgram.pdb

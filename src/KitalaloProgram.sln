@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitalaloProgram", "KitalaloProgram.csproj", "{52FB52AC-281B-468A-9AD9-FD5FE55E5916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{50D9DE38-83C3-4AFD-ADBF-1BD6B5FC9D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FB52AC-281B-468A-9AD9-FD5FE55E5916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FB52AC-281B-468A-9AD9-FD5FE55E5916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FB52AC-281B-468A-9AD9-FD5FE55E5916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FB52AC-281B-468A-9AD9-FD5FE55E5916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D9DE38-83C3-4AFD-ADBF-1BD6B5FC9D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D9DE38-83C3-4AFD-ADBF-1BD6B5FC9D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D9DE38-83C3-4AFD-ADBF-1BD6B5FC9D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D9DE38-83C3-4AFD-ADBF-1BD6B5FC9D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03C7F7C-18CD-4376-A8CC-FCFE8E664C6D}
+	EndGlobalSection
+EndGlobal
